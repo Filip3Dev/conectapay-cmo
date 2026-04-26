@@ -1,0 +1,16 @@
+Date,Advocate Name,Activity Type,Description,Time Spent (min),Reward Type,Reward Amount (R$),Fulfillment Status,Deadline,Completion Date,Notes,Advocate Tier,Processed By
+2026-05-05,Dra. Ana Silva,Testimonial Quote,"Provided quote for homepage: 'Recuperei R$ 3.200 no primeiro mês'",5,Digital Badge,0,Published,2026-05-10,2026-05-06,Great quote about ROI, featured on homepage,2,Ana Silva
+2026-05-10,Roberto Silva,Reference Call,"Spoke with prospect Maria Santos (Imobiliária Centro) for 18 min",20,Account Credit,100,Processed,2026-05-12,2026-05-11,Follow up required - send case study,2,Carlos Mendes
+2026-05-15,Clínica DermatoEssência,Case Study,"45-min interview, photos provided, results verified",45,Account Credit,500,Draft Pending Review,2026-06-01,2026-05-15,Amazing results - 3x ROI, draft for approval,2,Maria Santos
+2026-05-18,Ótica VisionCenter,Beta Test,"Tested new Pix integration feature, provided detailed feedback",30,Early Access,0,Completed,2026-05-20,2026-05-19,Found 2 bugs, suggested 3 improvements,3,Ana Silva
+2026-05-20,Clínica São José,Webinar Panelist,"Spoke at 'Automação para Clínicas' webinar, 45 min",45,Account Credit,1500,Completed,2026-05-25,2026-05-20,150 attendees, great feedback,1,Carlos Mendes
+2026-05-22,Fernanda Costa,Event Speaker,"Spoke at Imobiliárias Congress 2026, 'Recuperação de Vendas'",30,Travel + Stipend,3000,Completed,2026-06-15,2026-05-22,Travel to SP covered, great exposure,1,Maria Santos
+2026-05-25,Roberto Silva,Video Testimonial,"Recorded 2-min testimonial video, professional production",30,Account Credit,1000,Editing,2026-06-01,,Professional shoot, great quality,2,Carlos Mendes
+2026-05-28,Academia FitLife,Google Review,"Posted 5-star review on Google Business Profile",10,Social Feature,0,Published,2026-05-30,2026-05-28,Shared on LinkedIn by ConectaPay,3,Ana Silva
+2026-06-01,Clínica São José,Feedback Survey,"Completed detailed product feedback survey (25 questions)",25,Early Access,0,Completed,2026-06-05,2026-06-01,Strategic feedback on roadmap,1,Carlos Mendes
+2026-06-05,Dra. Ana Silva,Reference Call,"Spoke with prospect Carlos Oliveira (Clínica Cardiologia Vida)",25,Account Credit,100,Processed,2026-06-07,2026-06-05,Deal closed - advocate credited,2,Ana Silva
+2026-06-08,Imobiliária Premium,Advisory Board Meeting,"Quarterly advisory board meeting, 2 hours, strategic input",120,Stipend,500,Completed,2026-06-10,2026-06-08,Provided strategic direction on partnerships,1,Maria Santos
+2026-06-10,Clínica DermatoEssência,Case Study,"Approved case study draft, now live on website",10,Account Credit,500,Published,2026-06-01,2026-06-10,Shared on social media, great engagement,2,Carlos Mendes
+2026-06-12,Ótica VisionCenter,Site Visit,"Hosted prospect Patrícia Costa (Ótica Style) for 90 min",90,Exclusive Experience,0,Completed,2026-06-15,2026-06-12,Patrícia signed up next day,3,Ana Silva
+2026-06-15,Fernanda Costa,Press Interview,"Interviewed by Valor Econômico on 'Automação em Imobiliárias'",30,Media Exposure,0,Completed,2026-06-20,2026-06-15,Awaiting publication,1,Maria Santos
+2026-06-18,Academia FitLife,Social Share,"Shared ConectaPay post on LinkedIn, 150 impressions",5,Points (50),0,Completed,2026-06-20,2026-06-18,Added to advocate leaderboard,3,Carlos Mendes
