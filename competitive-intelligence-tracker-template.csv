@@ -1,0 +1,60 @@
+Competitor_ID,Competitor_Name,Type,Target_Market,Starting_Price,Key_Features,Strengths,Weaknesses,Last_Updated,Market_Share,Threat_Level,Our_Win_Rate_vs_Them
+COMP-001,Z-API,Direct,Developers,R$ 0-500/mo,WhatsApp API, flexible, developer-friendly,Technical setup required, no pre-built features,2026-04-20,25%,High,78%
+COMP-002,Evolution API,Direct,SMBs,R$ 200-800/mo,WhatsApp automation, dashboard,Ease of use, good support,Limited features, small company,2026-04-18,15%,Medium,72%
+COMP-003,Twilio,Indirect,Enterprise,R$ 1000-5000/mo,Multi-channel, reliable,Enterprise features, global,Expensive, complex, overkill for SMBs,2026-04-15,30%,High,65%
+COMP-004,Clerk,Direct,SMBs,R$ 150-400/mo,WhatsApp CRM, simple,Simple interface, affordable,Limited automation, basic features,2026-04-12,10%,Low,85%
+COMP-005,WhatsApp Manual,Alternative,All,Free,Native WhatsApp, familiar,Manual only, no automation, no analytics,2026-04-10,20%,Medium,92%
+
+BATTLE_CARD_STATUS,Competitor,Status,Last_Review,Next_Review,Owner,Notes
+Z-API,Live,2026-04-20,2026-05-20,Sales Enablement,Up to date
+Evolution API,Live,2026-04-18,2026-05-18,Sales Enablement,Monitor for new features
+Twilio,Needs Update,2026-04-15,2026-04-22,Sales Enablement,Recent pricing changes
+Clerk,Live,2026-04-12,2026-05-12,Sales Enablement,Up to date
+WhatsApp Manual,Live,2026-04-10,2026-05-10,Sales Enablement,Up to date
+
+WIN_LOSS_ANALYSIS,Competitor,Wins,Losses,Win_Rate,Primary_Win_Reason,Primary_Loss_Reason,Action_Items
+Z-API,14,4,78%,Ease of use, faster time-to-value,Price objection,Emphasize ROI and TTV
+Evolution API,18,7,72%,Better features, support,Existing relationship,Highlight our advantages
+Twilio,13,7,65%,Better for SMBs, simplicity,Enterprise preference,Stay focused on SMB
+Clerk,22,4,85%,More automation, analytics,Price sensitive,Show value proposition
+WhatsApp Manual,46,4,92%,Automation, efficiency,Manual preference,Educate on automation benefits
+
+COMPETITIVE_INTELLIGENCE_SOURCES,Source_Type,Source_Name,Frequency,Owner,Last_Check,Key_Insights
+Website,Z-API.com,Weekly,Sales Enablement,2026-04-20,No major changes
+Social Media,@ZAPI_BR,Daily,Marketing,2026-04-20,New feature announcement planned
+Review Sites,G2,Capterra,Monthly,Sales Enablement,2026-04-15,Positive reviews on ease of use
+Customers,Win/Loss Interviews,Ad-hoc,Sales,2026-04-18,Price is main objection vs Z-API
+Industry Reports,WhatsApp API News,Monthly,RevOps,2026-04-10,API changes coming Q3
+
+PRICING_COMPARISON,Competitor,Starting_Price,Typical_Price,Max_Price,Billing,Free_Trial,Setup_Fee,Our_Positioning
+Z-API,R$ 0,R$ 200/mo,R$ 500/mo,Monthly,No,No,15-20% cheaper, more value
+Evolution API,R$ 200,R$ 400/mo,R$ 800/mo,Monthly,7 days,No,Similar pricing, better features
+Twilio,R$ 1000,R$ 2500/mo,R$ 5000/mo,Usage-based,Free tier,Yes,60% cheaper, simpler
+Clerk,R$ 150,R$ 250/mo,R$ 400/mo,Monthly,14 days,No,Similar pricing, more automation
+WhatsApp Manual,Free,Free,Free,N/A,N/A,No,Free but no automation = costly in time
+
+FEATURE_COMPARISON_MATRIX,Feature,ConectaPay,Z-API,Evolution API,Twilio,Clerk,WhatsApp Manual
+WhatsApp API,✓,✓,✓,✓,✓,✓
+No-Code Setup,✓,✗,✓,✗,✓,✓
+Pre-Built Templates,✓,✗,✓,✗,✗,✗
+Campaign Automation,✓,✗,✓,✗,✗,✗
+Analytics Dashboard,✓,✗,✓,✓,✓,✗
+ROI Tracking,✓,✗,✗,✗,✗,✗
+Segment-Specific,✓,✗,✗,✗,✗,✗
+Multi-Location,✓,✓,✓,✓,✗,✗
+API Access,✓,✓,✓,✓,✗,✗
+Portuguese Support,✓,✗,✓,✗,✓,✓
+Brazil Server,✓,✗,✓,✗,✗,✓
+
+THREAT_LEVEL_ANALYSIS,Competitor,Market_Share,Trend,Product_Match,Pricing_Pressure,Switching_Cost,Overall_Threat,Priority
+Z-API,25%,↑,High,Medium,Low,High,Monitor closely
+Evolution API,15%,↑,Medium,Low,Low,Medium,Regular monitoring
+Twilio,30%,→,Low,High,High,High,Not a direct threat for SMBs
+Clerk,10%,→,Medium,Low,Low,Low,Keep competitive advantage
+WhatsApp Manual,20%,↓,High,None,Low,High,Convert to paid users
+
+INTELLIGENCE_GAPS,Gap,Priority,Owner,Target_Date
+Twilio pricing changes,High,Sales Enablement,2026-04-22
+Evolution API new features,Medium,Sales Enablement,2026-04-25
+Clerk customer reviews,Low,Marketing,2026-04-30
+Market share data Q2,Medium,RevOps,2026-05-15

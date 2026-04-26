@@ -1,0 +1,34 @@
+Deal ID,Deal Name,Company,Segment,Tier,Value (R$),Stage,Stage Entry Date,Days in Stage,Probability,Owner,Close Date,Source,Competitor,Next Step,Last Activity,Notes,Risk Level
+D-001,Clínica São Paulo,Clínica São Paulo,Clínicas,Growth,12000,3 - Demo Completed,2026-04-20,3,50%,João Silva,2026-05-15,Meta Ads,None,Send proposal,2026-04-25,Demo completed well, interested in ROI analysis,Low
+D-002,Imobiliária Prime,Imobiliária Prime,Imobiliárias,Scale,24000,2 - Demo Scheduled,2026-04-22,1,20%,Maria Santos,2026-05-30,LinkedIn,Evolution API,Prepare demo script,2026-04-25,Multi-location decision,Medium
+D-003,Academia Fit,Academia Fit Corp,Academias,Start,5000,1 - Qualified,2026-04-24,1,10%,João Silva,2026-05-10,Referral,None,Discovery call,2026-04-25,Referred by existing customer,High
+D-004,Ótica Vision,Ótica Vision,Óticas,Growth,9600,4 - Proposal Sent,2026-04-15,10,70%,Maria Santos,2026-05-05,Google Search,Z-API,Follow up on proposal,2026-04-23,Price concern, needs discount approval,Medium
+D-005,Clínica Vida,Clínica Vida,Clínicas,Enterprise,48000,5 - Negotiation,2026-04-10,15,90%,Carlos Mendes,2026-05-01,Email,None,Contract sent for signature,2026-04-25,Red contract received, closing tomorrow,Low
+
+STAGE_DISTRIBUTION,Count,Value,Percentage,Target,Status
+Stage 1 - Qualified,1,5000,8.3%,30%,OK
+Stage 2 - Demo Scheduled,1,24000,40.0%,40%,OK
+Stage 3 - Demo Completed,1,12000,20.0%,30%,OK
+Stage 4 - Proposal Sent,1,9600,16.7%,20%,OK
+Stage 5 - Negotiation,1,48000,80.0%,10%,ALERT (High concentration)
+Stage 6 - Closed Won,0,0,0%,N/A,
+TOTAL,5,98600,100%,,
+
+PIPELINE_HEALTH_METRIC,Value,Target,Status
+Total Pipeline Value,98600,100000,98% OK
+Pipeline Coverage (vs quota),3.3x,4x,ALERT (Below target)
+Weighted Pipeline,49800,60000,83% OK
+Average Deal Size,19720,12000,64% Above target
+Avg Days in Pipeline,6,45,OK (Fast moving)
+
+AGING_ALERTS,Deals,Action Required
+Stage 1 > 14 days,0,None
+Stage 2 > 14 days,0,None
+Stage 3 > 14 days,0,None
+Stage 4 > 14 days,1,D-004 (Ótica Vision) - Follow up immediately
+Stage 5 > 7 days,1,D-005 (Clínica Vida) - Accelerate to close
+
+FORECAST_SUMMARY,Commit (80%),Upside (50%),Pipeline (20%)
+Current Month,43200,51600,49800
+Next Month,26400,31680,29400
+Quarter,129600,155520,147600

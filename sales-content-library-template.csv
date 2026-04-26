@@ -1,0 +1,41 @@
+Content_ID,Content_Name,Type,Funnel_Stage,Segment,Owner,Status,Last_Updated,Usage_Count,Conversion_Rate,Rating,File_Link,Tags
+C-001,Como recuperar no-shows,Blog Post,Awareness,Clínicas,Marketing,Live,2026-04-15,234,5.2%,4.5,/blog/no-show-recuperacao,no-show,clínicas
+C-002,Clínica São Lucas Case Study,Case Study,Consideration,Clínicas,Marketing,Live,2026-04-10,156,12.3%,4.8,/cases/clinica-sao-lucas,case-study,roi
+C-003,Demo Script 30min,Demo Script,Decision,All,Sales Enablement,Live,2026-04-01,89,28.5%,4.2,/sales/demo-script,demo,script
+C-004,Objection Handling Guide,Playbook,Decision,All,Sales Enablement,Live,2026-03-28,67,N/A,4.6,/sales/objections,objections,sales
+C-005,Z-API Battle Card,Battle Card,Decision,All,Sales Enablement,Live,2026-04-20,134,22.1%,4.4,/competitive/z-api,competitive,z-api
+C-006,Proposal Template,Template,Decision,All,Sales Enablement,Live,2026-04-05,45,35.7%,4.7,/sales/proposal-template,proposal,template
+C-007,ROI Calculator,Tool,Consideration,All,Marketing,Live,2026-04-12,312,18.9%,4.9,/tools/roi-calculator,roi,calculator
+C-008,Welcome Email Sequence,Email Sequence,Success,All,Customer Success,Live,2026-04-18,23,N/A,4.5,/cs/welcome-email,onboarding
+C-009,Implementation Guide,Guide,Success,All,Customer Success,Live,2026-04-08,41,N/A,4.3,/cs/implementation,implementation
+C-010,Onboarding Checklist,Checklist,Success,All,Customer Success,Live,2026-04-02,28,N/A,4.6,/cs/onboarding-checklist,onboarding,checklist
+
+CONTENT_PERFORMANCE_REPORT,Top Performing,Conversion Rate,Usage Count,Rating,Action
+Best Converting,C-006 Proposal Template,35.7%,45,4.7,Create more templates
+Most Used,C-007 ROI Calculator,18.9%,312,4.9,Promote more widely
+Highest Rated,C-002 Case Study,12.3%,156,4.8,Create more case studies
+Lowest Performing,C-001 Blog Post,5.2%,234,4.5,Refresh or archive
+
+CONTENT_GAPS,Needed_Content,Type,Priority,Request_Date,Requester,Status
+Competitive - Twilio,Battle Card,High,2026-04-20,Sales Team,In Progress
+Segment - Imobiliárias Case Study,Case Study,High,2026-04-18,Marketing,Planned
+Advanced Features Demo,Video,Medium,2026-04-15,Sales,Planned
+Pricing Objection Email,Email Template,Medium,2026-04-12,Sales,Not Started
+
+CONTENT_LIFECYCLE,Status,Definition,Count,Percentage,Action
+Live,Actively used and performing,10,90%,Monitor and optimize
+Review,Needs quarterly review,0,0%,Schedule review
+Deprecated,Outdated but in library,1,10%,Archive or update
+Archived,Removed from library,0,0%,Store for reference
+
+CONTENT_BY_FUNNEL_STAGE,Awareness,Consideration,Decision,Success
+Total,1,2,4,3
+Target,5,5,5,3
+Gap,4,3,1,0
+Priority,High,High,Medium,None
+
+USAGE_ANALYSIS,Last_7_Days,Last_30_Days,All_Time,Trend
+Total Views,45,312,1,247,↑ 12%
+Unique Users,28,189,678,↑ 8%
+Avg Rating,4.5,4.6,4.5,Stable
+Conversion Rate,15.3%,18.9%,22.1%,↑ 5%

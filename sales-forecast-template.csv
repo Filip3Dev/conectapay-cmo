@@ -1,0 +1,35 @@
+Forecast Period,Month,Quota,Commit Forecast,Commit %,Upside Forecast,Upside %,Pipeline Forecast,Pipeline %,Actual,Accuracy,Variance,Confidence
+2026-04,April,100000,43200,43%,51600,52%,49800,50%,0,0%,0%,Medium
+2026-05,May,120000,26400,22%,31680,26%,29400,25%,0,0%,0%,Low
+2026-06,June,140000,0,0%,0,0%,0,0%,0,0%,0%,None
+2026-Q2,Q2,360000,69600,19%,83280,23%,79200,22%,0,0%,0%,Low
+
+WEEKLY_FORECAST_TRACKING,Week of,Commit,Change from Last Week,Upside,Change,Pipeline,Change,Key Events,Next Week Focus
+Week 16,2026-04-21,43200,+3200,51600,+2400,49800,+1800,D-005 moved to negotiation,Close D-004 and D-005
+Week 17,2026-04-28,,,,,,,
+Week 18,2026-05-05,,,,,,,
+Week 19,2026-05-12,,,,,,,
+
+DETAILED_FORECAST_BY_STAGE,Stage,Deal Count,Total Value,Weighted Value,Avg Probability,Avg Deal Size
+Stage 1 - Qualified,1,5000,500,10%,5000
+Stage 2 - Demo Scheduled,1,24000,4800,20%,24000
+Stage 3 - Demo Completed,1,12000,6000,50%,12000
+Stage 4 - Proposal Sent,1,9600,6720,70%,9600
+Stage 5 - Negotiation,1,48000,43200,90%,48000
+Stage 6 - Closed Won,0,0,0,0%,0
+TOTAL,5,98600,61220,62%,19720
+
+FORECAST_CONFIDENCE_LEVELS,Level,Definition,Included Deals,Weight,Use For
+Commit,High confidence (80%+),Stage 4+5 only,Stage weights,Predictable revenue
+Upside,Moderate confidence (50%+),Stage 3+4+5,Stage weights,Planning scenarios
+Pipeline,Low confidence (20%+),All stages,Stage weights,Trend analysis
+
+RISK_FACTORS,Deal_ID,Risk_Description,Impact,Probability,Mitigation,Owner
+D-004,Price negotiation,May need 15% discount,High,60%,Prepare value-based justification,Maria Santos
+D-002,Multi-location approval,Decision process complex,Medium,40%,Engage all decision-makers,João Silva
+D-003,Small deal size,Low revenue impact,Low,20%,Focus on fast close,João Silva
+
+OPPORTUNITY_MATRIX,Deal_ID,Upside Potential,Expansion Probability,Strategic Value,Action
+D-001,Add-ons likely,+60% (R$ 7200),High - Reference customer,Prioritize closing
+D-002,Multi-site expansion,+200% (R$ 48000),Medium - Large logo,Nurture for expansion
+D-003,Referral source,+50% (R$ 2500),High - Advocacy potential,Fast close + referral program
