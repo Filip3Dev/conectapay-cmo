@@ -1,0 +1,6 @@
+Case Study ID,Customer Name,Segment,Published Date,Days Live,Website Views,LinkedIn Engagement,Instagram Engagement,Email Clicks,Video Views,Sales Uses,Leads Generated,Opportunities Created,Closed Won (R$),Customer Shared,Customer Referred,Performance Rating (1-5),Notes
+CS-001,Dra. Ana Silva,Clinics,2026-04-25,5,1250,8.5%,6.2%,45,320,12,23,15000,0,Yes,Yes,5,Top performer
+CS-002,Imobiliária ABC,Real Estate,2026-04-26,4,980,7.2%,5.8%,38,280,8,17,12000,0,No,No,4,Good start
+,,,,,,,,,,,,,,,,
+PERFORMANCE RATING: 5 (Excellent - exceeds targets),4 (Good - meets targets),3 (Average - below targets),2 (Poor - well below targets),1 (Fail - needs investigation)
+TARGETS (30 days): Website Views 500+,LinkedIn Engagement 5%+,Instagram Engagement 5%+,Leads Generated 15+,Sales Uses 10+

@@ -1,0 +1,7 @@
+Case Study ID,Customer Name,Segment,Date Identified,Date Interviewed,Date Draft Sent,Date Approved,Date Published,Production Lead Time (Days),Interviewer,Writer,Designer,Incentive Offered,Incentive Delivered,Formats Produced,Distribution Channels,Internal Notes
+CS-001,Dra. Ana Silva,Clinics,2026-04-15,2026-04-18,2026-04-20,2026-04-23,2026-04-25,10,CMO,CMO,Designer,1 month free,Yes,Web,PDF,LinkedIn,Instagram,Email,Website,Social,Email,
+CS-002,Imobiliária ABC,Real Estate,2026-04-16,2026-04-19,2026-04-21,2026-04-24,2026-04-26,10,CMO,CMO,Designer,R$ 200 gift card,Yes,Web,PDF,LinkedIn,Website,Social,
+,,,,,,,,,,,,,,,,
+FORMATS: Web (full case study),PDF (one-pager),LinkedIn (carousel),Instagram (carousel),Video (testimonial),Email (feature)
+DISTRIBUTION CHANNELS: Website,Social,Email,Sales,Medium,YouTube,Partners
+PRODUCTION LEAD TIME TARGET: 14-21 days from Identified to Published

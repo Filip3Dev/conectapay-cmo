@@ -1,0 +1,10 @@
+Customer Name,Segment,Business Size,City,State,Revenue Recovery (R$),No-Show Reduction (%),ROI (x),Time to Results,Days Active,NPS Score,Story Quality (1-5),Representation Value (1-5),Customer Willingness (1-5),Total Score (0-100),Tier,Status,Outreach Date,Interview Scheduled,Interview Completed,Draft Sent,Approval Received,Published,Notes
+Dra. Ana Silva - Clínica Dermato,Clinics,Small (3 doctors),São Paulo,SP,3200,75,10,7 days,45,10,5,5,5,92,Tier 1,Identified,2026-04-28,,,,
+Imobiliária ABC,Real Estate,Medium (15 agents),Rio de Janeiro,RJ,5800,60,8,14 days,60,9,4,5,4,85,Tier 1,Identified,2026-04-29,,,,
+Academia Fit Corp,Academies,Medium (8 trainers),Belo Horizonte,MG,2100,50,6,21 days,30,8,4,4,3,68,Tier 2,Identified,2026-05-01,,,,
+Ótica Vision Center,Opticals,Small (2 locations),Curitiba,PR,1800,45,5,30 days,25,7,3,3,3,52,Tier 3,Identified,,,,,,
+,,,,,,,,,,,,,,,,
+SEGMENTS: Clinics,Real Estate,Academies,Opticals
+BUSINESS SIZES: Small (1-5 employees),Medium (6-20 employees),Large (21+ employees)
+STATUSES: Identified,Outreach Sent,Interview Scheduled,Interview Completed,Draft in Review,Approved,Published,On Hold,Declined
+TIERS: Tier 1 (80+ points),Tier 2 (60-79 points),Tier 3 (40-59 points),Backlog (<40 points)
