@@ -1,0 +1,46 @@
+CAB Member Qualification Scorecard,ConectaPay Customer Advisory Board
+Score Date,Segment,Company Name,Contact Name,Email,Phone,Tenure (Months),CLV Tier,Product Adoption %,NPS Score,ICP Fit Score,Industry Influence,Time Availability,Tenure Score (15),CLV Score (25),Adoption Score (20),NPS Score (15),ICP Score (10),Influence Score (10),Availability Score (5),TOTAL SCORE (100),QUALIFIED? (70+),STATUS,Notes
+,,,,,,,,"0-15",,,"0-15",,"0-20",,"0-15",,"0-10",,"0-10",,"0-5",,
+Example - Clínica,Clínicas,Clínica Saúde Total,Dra. Julia Santos,julia@saudetotal.com.br,+55 11 98765-4321,8,Platinum,92,10,9,High,Confirmed,15,25,20,15,10,10,5,100,YES,Invited Sent,Perfect candidate - multi-location clinic
+Example - Imobiliária,Imobiliárias,ImobRio Corretores,Roberto Mendes,roberto@imobrio.com,+55 21 91234-5678,5,Gold,85,9,8,Medium,Confirmed,10,20,15,12,8,5,5,75,YES,Invited Sent,Good fit - growing agency
+Example - Academia,Academias,Academia FitLife,Carla Oliveira,carla@fitlife.com,+55 31 99876-5432,3,Silver,75,8,7,Low,Maybe,5,10,15,8,7,3,2,57,NO,Waitlist,Good product fit but low influence
+Example - Ótica,Óticas,Ótica Vision,Carlos Lima,carlos@vision.com,+55 11 97654-3210,12,Platinum,88,10,9,High,Confirmed,15,25,20,15,10,10,5,100,YES,Accepted,Long-tenured customer, highly engaged
+
+,,,,,,,,"0-15",,,"0-15",,"0-20",,"0-15",,"0-10",,"0-10",,"0-5",,
+
+SCORING GUIDE:,,,,
+Tenure (15%),6+ months,15 pts,,,,
+,3-6 months,10 pts,,,,
+,<3 months,0 pts,,,,
+
+CLV Tier (25%),Platinum (R$ 15K+),25 pts,,,,
+,Gold (R$ 5-15K),20 pts,,,,
+,Silver (R$ 2-5K),10 pts,,,,
+,Bronze (R$ 0-2K),0 pts,,,,
+
+Product Adoption (20%),90%+ adoption,20 pts,,,,
+,70-89% adoption,15 pts,,,,
+,50-69% adoption,5 pts,,,,
+,<50% adoption,0 pts,,,,
+
+NPS/Advocacy (15%),NPS 10,15 pts,,,,
+,NPS 9,12 pts,,,,
+,NPS 8,5 pts,,,,
+,NPS <8,0 pts,,,,
+
+ICP Fit (10%),Perfect ICP fit,10 pts,,,,
+,Close fit,7 pts,,,,
+,Partial fit,3 pts,,,,
+,Poor fit,0 pts,,,,
+
+Industry Influence (10%),High (speaker, author),10 pts,,,,
+,Medium (active networker),5 pts,,,,
+,Low,0 pts,,,,
+
+Time Availability (5%),Confirmed availability,5 pts,,,,
+,Maybe,2 pts,,,,
+,Unknown,0 pts,,,,
+
+QUALIFYING SCORE,70+ points,YES (Tier 1 CAB),,,
+,60-69 points,Waitlist (Tier 2 Ambassador),,,
+,<60 points,Not qualified,,,

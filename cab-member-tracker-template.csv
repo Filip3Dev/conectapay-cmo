@@ -1,0 +1,58 @@
+CAB Member Tracker,ConectaPay Customer Advisory Board
+Last Updated: [Date]
+
+MEMBER PROFILE,,
+Member ID,Name,Company,Segment,Role,Email,Phone,LinkedIn,Tier,Join Date,Contract End,Tenure (Months)
+CAB-001,Dra. Julia Santos,Clínica Saúde Total,Clínicas,Owner,julia@saudetotal.com.br,+55 11 98765-4321,linkedin.com/in/juliasantos,Tier 1,2026-05-01,2027-05-01,8
+CAB-002,Roberto Mendes,ImobRio Corretores,Imobiliárias,Director,roberto@imobrio.com,+55 21 91234-5678,linkedin.com/in/robertomendes,Tier 1,2026-05-01,2027-05-01,5
+CAB-003,Carlos Lima,Ótica Vision,Óticas,Owner,carlos@vision.com,+55 11 97654-3210,linkedin.com/in/carloslima,Tier 1,2026-05-01,2027-05-01,12
+
+ENGAGEMENT METRICS,,
+Member ID,Meeting Attendance (Last 4),Survey Response Rate,Feedback Quality (1-5),Engagement Score (0-100),Health Status,Last Contact Date,Days Since Contact
+CAB-001,4/4 (100%),100%,5,95,Green,2026-04-26,0
+CAB-002,3/4 (75%),100%,4,78,Green,2026-04-20,6
+CAB-003,2/4 (50%),67%,3,52,Yellow,2026-04-15,11
+
+BUSINESS IMPACT,,
+Member ID,CLV (BRL),Current MRR,Expansion Date,Expansion Amount,Referrals Given,Referrals Converted,Case Studies,NPS Score,Churn Risk
+CAB-001,R$ 6.200,R$ 297,2026-03-15,R$ 120 (to Scale),3,2,1,10,Low
+CAB-002,R$ 4.450,R$ 199,None,R$ 0,1,0,0,9,Low
+CAB-003,R$ 5.800,R$ 247,2026-02-01,R$ 60 (to Growth),0,0,0,8,Medium
+
+INCENTIVES TRACKING,,
+Member ID,Service Credits Used (YTD),Service Credits Remaining,Gift Cards Given (YTD),Exclusive Perks Used,Total Value (YTD),Annual Budget
+CAB-001,R$ 400,R$ 350,R$ 200,Beta access, VIP support, case study,R$ 950,R$ 2.000
+CAB-002,R$ 250,R$ 500,R$ 150,Beta access, newsletter,R$ 650,R$ 2.000
+CAB-003,R$ 600,R$ 150,R$ 100,Beta access,R$ 600,R$ 2.000
+
+FEEDBACK & INSIGHTS,,
+Member ID,Features Requested,Features Implemented,Bugs Reported,Competitive Intel,Last Interview Date,Next Interview Date
+CAB-001,5,2,3,"Competitor X launching WhatsApp automation",2026-03-10,2027-03-10
+CAB-002,3,1,1,"Competitor Y lowering prices",2026-02-15,2027-02-15
+CAB-003,2,0,2,"Market demand for analytics dashboard",2026-01-20,2027-01-20
+
+ACTION ITEMS,,
+Member ID,Pending Actions,Owner,Due Date,Status,Notes
+CAB-001,"Send case study draft for review",Marketing,2026-05-01,Pending,Awaiting approval
+CAB-002,"Schedule expansion call",CSM,2026-05-03,Pending,Upgrade to Scale tier
+CAB-003,"Conduct churn risk intervention",CSM,2026-04-28,Overdue,Engagement dropping
+
+MEETING ATTENDANCE LOG,,
+Meeting Date,Duration,Attendees (Count),Attendees (Names),Key Decisions,Action Items,Recording Link
+2026-06-15,90 min,10/12 (83%),"All except CAB-003, CAB-009","Prioritize WhatsApp multi-agent feature","5 action items assigned",https://zoom.us/recording/xxx
+2026-03-15,90 min,11/12 (92%),"All except CAB-007","Approve analytics dashboard roadmap","3 action items assigned",https://zoom.us/recording/yyy
+2026-12-15,90 min,12/12 (100%),All members,"Q4 roadmap approval","7 action items assigned",https://zoom.us/recording/zzz
+
+QUARTERLY METRICS SUMMARY,,
+Quarter,Total Members,Meeting Attendance %,Avg Engagement Score,Total CLV,Churn Rate,Expansion Rate,Referrals,Case Studies,ROI
+Q1 2026,12,83%,78/100,R$ 74.400,1.5%,22%,28,3,147%
+Q4 2025,12,92%,82/100,R$ 71.200,0%,25%,25,4,165%
+Q3 2025,11,85%,75/100,R$ 65.100,3.0%,18%,22,2,120%
+
+SEGMENT BREAKDOWN,,
+Segment,Tier 1 Members,Tier 2 Members,Avg CLV,Avg NPS,Churn Rate,Expansion Rate,Referrals/Member
+Clínicas,3,8,R$ 4.600,9.8,1.2%,25%,2.8
+Imobiliárias,3,6,R$ 4.450,9.5,1.8%,20%,2.1
+Academias,3,5,R$ 1.880,9.2,2.5%,15%,1.5
+Óticas,3,4,R$ 1.790,9.0,2.0%,12%,1.2
+TOTAL,12,23,R$ 3.180,9.4,1.9%,18%,1.9
