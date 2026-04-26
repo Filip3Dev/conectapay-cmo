@@ -1,0 +1,5 @@
+Company,Segment,Tier,Size_Score,Revenue_Score,Pain_Score,Digital_Score,Location_Score,TOTAL_Score,Decision,Notes,Owner,Date_Added
+"Exemplo Clínica São Paulo",Clínica,1,20,20,20,10,10,80,APPROVE,"12 médicos, R$ 300k/mês, 25% no-show, WhatsApp ativo","Sales Rep A",2026-04-26
+"Exemplo Imobiliária Rio",Imobiliária,2,15,15,15,10,7,62,NURTURE,"30 corretores, abaixo do threshold no critério de digital","Sales Rep B",2026-04-26
+"Exemplo Academia BH",Academia,1,25,20,25,10,10,90,APPROVE,"2.000 alunos, 6% churn, ótimo fit","Sales Rep C",2026-04-26
+"Exemplo Ótica Curitiba",Ótica,3,15,15,10,10,7,57,REJECT,"Abaixo de 70 pontos,很小 para tier 3","Sales Rep D",2026-04-26

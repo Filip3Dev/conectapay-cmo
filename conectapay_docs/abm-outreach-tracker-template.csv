@@ -1,0 +1,5 @@
+Company,Segment,Tier,Owner,Last_Touch_Date,Last_Touch_Channel,Last_Touch_Result,Next_Action_Date,Next_Action,Next_Action_Channel,Engagement_Score,Stage,Stakeholders_Engaged,Pipeline_Value,Probability,Notes
+"Clínica São Paulo",Clínica,1,"Sales Rep A",2026-04-26,Email,Opened,2026-05-03,Phone Call,Phone,45,Engaged,"Dr. Silva (CEO), Dra. Costa (Marketing)",R$ 50.000,60,"Warm lead, responded to email"
+"Imobiliária Rio",Imobiliária,2,"Sales Rep B",2026-04-25,LinkedIn InMail,Accepted,2026-05-02,Email Follow-up,Email,25,Engaged,"João Santos (Director)",R$ 0,0,"Early stage, nurturing"
+"Academia BH",Academia,1,"Sales Rep C",2026-04-20,Direct Mail,Delivered,2026-04-27,Phone Call,Phone,70,Opportunity,"Carlos Lima (Owner)",R$ 60.000,40,"Demo scheduled for May 1"
+"Ótica Curitiba",Ótica,3,"Sales Rep D",2026-04-15,Email,Clicked,2026-05-15,LinkedIn Engagement,LinkedIn,15,Nurtured,"Ana Porto (Manager)",R$ 0,0,"Long nurture, low priority"
