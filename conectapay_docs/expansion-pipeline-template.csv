@@ -1,0 +1,9 @@
+Customer Name,Current Plan,Expansion Path,Expansion Score (0-100),Usage Intensity (0-30),Value Realized (0-25),Plan Limit (0-20),Tenure (0-15),Engagement (0-10),Signal Detected,Signal Date,Contact Date,Responded (Y/N),Demo Scheduled (Y/N),Demo Date,Offer Presented (Y/N),Offer Date,Negotiating (Y/N),Closed (Y/N),Close Date,Expansion MRR,CSM Owner,Status,Next Action,Notes
+Clínica ABC,Growth,Growth→Scale,88,25,22,18,12,8,Plan limit proximity (85%),2026-04-20,2026-04-21,Y,Y,2026-04-25,Y,2026-04-25,N,N,,R$ 200,Maria Silva (CSM A),Demo Scheduled,Confirm attendance
+Imobiliária XYZ,Starter,Starter→Growth,92,28,20,19,14,10,Usage spike (+60% MoM),2026-04-18,2026-04-19,Y,Y,2026-04-22,Y,2026-04-22,N,N,,R$ 100,João Santos (CSM B),Offer Presented,Follow up Step 2
+Academia Fit,Scale,Scale→Enterprise,45,12,8,5,8,5,Feature request (API),2026-04-15,2026-04-16,N,N,,,N,N,N,N,,,Pedro Lima (CSM C),Not Ready,Focus on adoption first
+Clínica DermatoEssência,Starter,Team Access (Cross-sell),85,22,18,12,10,8,Multiple device logins,2026-04-19,2026-04-20,Y,N,,,N,N,N,N,,,Maria Silva (CSM A),Contacted,Waiting for response
+Clínica Saúde Total,Growth,Analytics Dashboard,78,20,15,14,12,7,Asks for reports,2026-04-17,2026-04-18,Y,Y,2026-04-24,Y,2026-04-24,N,N,,R$ 97,João Santos (CSM B),Demo Scheduled,Send calendar invite
+,,,,,,,,"EXPANSION PATHS: Starter→Growth, Growth→Scale, Scale→Enterprise, Team Access, Analytics, Integrations, Templates",,,,,,,,,,,,,
+,,,,,,,,"EXPANSION SCORE: 80-100 = Immediate outreach, 60-79 = Nurture, <60 = Not ready",,,,,,,,,,,,,
+,,,,,,,,"SIGNALS: Plan limit, Usage spike, Team usage, Feature request, ROI milestone, Business change, Integration request, Reporting need",,,,,,,,,,,,,
